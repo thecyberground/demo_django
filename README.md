@@ -1,0 +1,2 @@
+# demo_django
+django
